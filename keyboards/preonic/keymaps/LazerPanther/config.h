@@ -49,3 +49,6 @@
 // RGB Matrix support
 #define DRIVER_LED_TOTAL RGBLED_NUM
 
+#define RGBLIGHT_LAYERS
+#define RGBLIGHT_LED_MAP {8, 2, 3, 7, 6, 5, 4, 0, 1}
+
